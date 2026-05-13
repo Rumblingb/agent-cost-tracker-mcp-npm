@@ -1,0 +1,27 @@
+{
+  "name": "agent-cost-tracker-mcp",
+  "version": "1.0.0",
+  "description": "MCP server: Track AI agent token usage and API costs \u2014 npm wrapper",
+  "main": "index.js",
+  "bin": {
+    "agent-cost-tracker-mcp": "./index.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "ai-agent",
+    "agentpay",
+    "agent",
+    "cost",
+    "tracker",
+    "mcp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rumblingb/agent-cost-tracker-mcp.git"
+  },
+  "homepage": "https://rumblingb.github.io/agent-cost-tracker-mcp/",
+  "author": "AgentPay Labs",
+  "license": "MIT",
+  "dependencies": {}
+}
